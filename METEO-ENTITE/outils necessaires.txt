@@ -1,0 +1,25 @@
+
+
+MongoDB(mongoose)
+Express
+React
+Node.js
+
+editeur de code de preference visual studio code(vscode)
+
+commande utilisé 
+commencer par verifier si node est bien installé avec la commande : node -v
+creer le projet react avec :
+npx create-react-app reporting-front
+
+apres je crée un fichier reporting-back
+j'installe le package json 
+en faison 
+npm init -y
+
+installation des dependances avec la commande
+npm install express cors mongoose dotenv
+
+j'installe egalement nodemon
+npm install -g nodemon
+
